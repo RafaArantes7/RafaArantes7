@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hello, I am Rafael Arantes<br>### About me<br>- 🔭 I am currently studying **Solidity and Blockchain**<br>- 🌱 I'm learning **Programming and Cryptocurrencies**<br>- 💬 Ask me about **Foreign Trade, Blockchain, Cryptocurrencies**<br>- 📫 How to find me: [rafael.arantes7@hotmail.com]<br><br>### Conecte-se Comigo<br>[LinkedIn](https://www.linkedin.com/in/rafael-arantes7/)
+# 👋 Hello, I am Rafael Arantes<br>### About me<br>- 🔭 I am currently studying **Solidity and Blockchain**<br>- 🌱 I'm learning **Programming and Cryptocurrencies**<br>- 💬 Ask me about **Foreign Trade, Blockchain, Cryptocurrencies**<br>- 📫 How to find me: [rafael.arantes7@hotmail.com]<br><br>
 
 
 ## 🌐 Socials:
